@@ -22,8 +22,7 @@ Base de dados e arquivos: https://drive.google.com/drive/folders/1uDesZePdkhiraJ
 
 ## Passo 1 | Importar a base de dados
 
-
-![alt text](image.png)
+<img width="1078" height="183" alt="image" src="https://github.com/user-attachments/assets/fc2953db-a590-477d-86eb-a3ded3706262" />
 
 
 ## Instalação de alguns recursos
